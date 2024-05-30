@@ -1,1 +1,0 @@
-Мой бек: https://pindie-backend-mine.nomorepartiesco.ru/
